@@ -14,8 +14,8 @@ def fish_path(df):
     plt.xlabel("xx (mm)")
     plt.ylabel("yy (mm)")
     plt.title("Fish path")
-    plt.ylim(70, 0)  # decreasing time # TODO read from arena the max yy
-    plt.xlim(0, 160)  # decreasing time # TODO read from arena the max yy
+    plt.ylim(70, 0)  # decreasing time # read from arena the max yy
+    plt.xlim(0, 160)  # decreasing time # read from arena the max yy
     plt.plot([0,160],[10, 10], linestyle='--', color='grey')
     #plt.plot([0, 160], [35, 35], linestyle='--', color='cyan')
     plt.axhspan(0, 35, facecolor='plum', alpha=0.5)
@@ -35,15 +35,10 @@ def fish_path(df):
 # fish_path(df)
 
 period = 1/30  # s
-#cm
-#14x16
+
 # altura = 0.07 #m
 # largura = 0.16
 
-## arena
-# altura 125 311
-# largura 881 378
-# TODO read from file arena
 txt = ""
 
 def mean_velocity(df):
