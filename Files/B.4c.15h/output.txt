@@ -1,0 +1,5 @@
+mean velocity (mm/s): 8.346257638425243
+total distance (mm): 2355.3139055636775
+total time (s): 282.20000000000886
+down time (s): 242.29999999999998
+upper time (s): 39.96666666666667

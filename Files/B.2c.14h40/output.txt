@@ -1,0 +1,9 @@
+mean velocity (mm/s): 9.525233787533644
+total distance (mm): 2427.029569063459
+total time (s): 254.7999999999881
+down time (s): 62.733333333333334
+upper time (s): 192.1mean velocity (mm/s): 9.525233787533644
+total distance (mm): 2427.029569063459
+total time (s): 254.7999999999881
+down time (s): 62.733333333333334
+upper time (s): 192.1
